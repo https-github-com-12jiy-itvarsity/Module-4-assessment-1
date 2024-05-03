@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    background-image: url(images/background\ 02.jpg);
+    width: 100%;
+    background-size: 2000px;
+    
+    
+    
+}
+
+.left-column{
+    width: 40%;
+    
+    
+}
+
+.girl img{
+    float: right;
+    
+}
+
+
+
+.clothes img{
+    width: 40%;
+}
+
+.heading{
+    color: white;
+    background-color: purple;
+    text-align: center;
+}
